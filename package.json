@@ -1,0 +1,21 @@
+{
+  "type": "module",
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "Practice js scraper",
+  "main": "src/index.js",
+  "scripts": {
+    "run": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcel-dev-acc/node-scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcel-dev-acc/node-scraper/issues"
+  },
+  "homepage": "https://github.com/marcel-dev-acc/node-scraper#readme"
+}
