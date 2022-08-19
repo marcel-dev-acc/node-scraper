@@ -12,4 +12,3 @@ const main = async () => {
   }
 };
 main();
-
